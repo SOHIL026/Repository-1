@@ -3,5 +3,5 @@ This is my first Repository
 <br>
 I am a software developer
 <br>
-Author-Sohil Khan
+Author-Sohil Khan(Software Developer)
 
